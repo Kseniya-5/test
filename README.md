@@ -6,3 +6,8 @@
 ## Основной интерфейс приложения
 ![image](https://github.com/user-attachments/assets/38b57e44-32f7-4483-8c6d-58fc8e608903)
 
+## Интерфейс страницы "Опросный лист"
+![image](https://github.com/user-attachments/assets/937956c7-26a9-4fb1-852a-243d2fcd0251)
+
+## Интерфейс страницы "Расчётная итоговая оценка"
+![image](https://github.com/user-attachments/assets/1786c04f-8bcc-4a74-b8f6-1805dac70565)
